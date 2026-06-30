@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Gulmaan</h1>
+<h1 align="center">Hi 👋, I'm Gulman</h1>
 <h3 align="center">Cloud & DevOps Engineer | Building scalable infrastructure on AWS & Azure</h3>
 
 <p align="center">
